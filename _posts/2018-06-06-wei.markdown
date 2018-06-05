@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "wei to Jekyll!"
+date:   2018-06-06 13:06:53 +0900
+categories: weiwei
+---
+## hello
+
+world
+
+## hey
+
+yo
+
+---
